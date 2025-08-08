@@ -2,7 +2,7 @@
 
 A command-line tool to search for songs and download them as MP3 files from YouTube.
 
-<img width="1392" height="1252" alt="image" src="https://github.com/user-attachments/assets/b9e096f3-cd19-4546-95ed-334e18dafa8c" />
+<img width="1399" height="1224" alt="image" src="https://github.com/user-attachments/assets/3e43e166-4dc9-46cd-a94b-dc422722697f" />
 
 
 ## Installation
