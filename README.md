@@ -3,7 +3,7 @@
 </p>
 
 
-# Music Downloader
+# Song Fetcher
 
 A command-line tool to search for songs and download them as MP3 files from YouTube.
 
