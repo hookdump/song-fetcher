@@ -1,3 +1,6 @@
+<img width="964" height="646" alt="image" src="https://github.com/user-attachments/assets/ea25339e-3e3d-48db-96a1-b69cab60a59f" />
+
+
 # Music Downloader
 
 A command-line tool to search for songs and download them as MP3 files from YouTube.
